@@ -7,10 +7,10 @@ Specializing in **Machine Learning**, **Predictive Modeling**, and **Data Visual
 
 ## 🔹 Skills
 
-- **Programming & Analysis:** R, Python, SQL  
-- **Machine Learning:** XGBoost, Regression, Classification  
-- **Data Visualization:** ggplot2, Plotly, Tableau  
-- **Dashboarding & Reporting:** Shiny, Flexdashboard, Tableau Public  
+- **Programming & Analysis:** Python, R, SQL  
+- **Machine Learning:** Regression, Classification, Scikit Learn, XGBoost  
+- **Data Visualization:** ggplot2, Plotly, Tableau, matplotlib, Powerbi 
+- **Dashboarding & Reporting:** Shiny, Flexdashboard, Tableau Public, Jupyter Notebooks  
 - **Other:** Data Cleaning, Feature Engineering, Predictive Analytics
 
 ---
