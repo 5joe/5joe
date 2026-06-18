@@ -17,6 +17,8 @@ Specializing in **Machine Learning**, **Predictive Modeling**, and **Data Visual
 
 ## 🔹 Projects
 
+- **Satellite Imagery Crop Classification** – Engineered spectral indices (NDWI, SAR-Ratio) and implemented an optimized Random Forest ensemble to classify
+  agricultural land, achieving 0.95+ accuracy on Zindi leaderboards.
 - **Sales Prediction Models** – Built XGBoost models to forecast revenue and deal stages for a retail dataset.  
 - **Dashboard Applications** – Interactive dashboards in R Shiny & Flexdashboard for sales and student assessment data.  
 - **Data Analysis & Visualization** – Tableau dashboards, trend analysis, and predictive insights for various datasets.
@@ -27,10 +29,11 @@ Specializing in **Machine Learning**, **Predictive Modeling**, and **Data Visual
 
 - LinkedIn: [Ochwo Edrian Jude](https://www.linkedin.com/in/ochwo-edrian-jude-00a732230)  
 - Tableau: [Portfolio](https://public.tableau.com/app/profile/ochwo.edrian.jude)  
-- GitHub: [5joe](https://github.com/5joe)  
+- GitHub: [5joe](https://github.com/5joe)
+- Zindi: [oej12](https://zindi.global/users/oej12)
 
 ---
 
-## 🔹 Fun Fact
+## 🔹 A Little about me
 
-I enjoy turning **data into actionable insights**, building predictive models, and creating **interactive dashboards** that make complex data easy to understand.
+Beyond the code, I’m fascinated by how data can help us understand our world.
