@@ -27,10 +27,10 @@ Specializing in **Machine Learning**, **Predictive Modeling**, and **Data Visual
 
 ## 🔹 Portfolio & Contact
 
-- LinkedIn: [Ochwo Edrian Jude](https://www.linkedin.com/in/ochwo-edrian-jude-00a732230)  
-- Tableau: [Portfolio](https://public.tableau.com/app/profile/ochwo.edrian.jude)  
-- GitHub: [5joe](https://github.com/5joe)
+- LinkedIn: [Ochwo Edrian Jude](https://www.linkedin.com/in/ochwo-edrian-jude-00a732230)
 - Zindi: [oej12](https://zindi.global/users/oej12)
+- Tableau: [Portfolio](https://public.tableau.com/app/profile/ochwo.edrian.jude)  
+
 
 ---
 
