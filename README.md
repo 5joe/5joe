@@ -19,7 +19,9 @@ Specializing in **Machine Learning**, **Predictive Modeling**, and **Data Visual
 
 - **Satellite Imagery Crop Classification** – Engineered spectral indices (NDWI, SAR-Ratio) and implemented an optimized Random Forest ensemble to classify
   agricultural land, achieving 0.95+ accuracy on Zindi leaderboards.
-- **Sales Prediction Models** – Built XGBoost models to forecast revenue and deal stages for a retail dataset.  
+- **Lead Conversion Prediction (EliteShield)** – Built a Random Forest classification pipeline using SMOTE to handle class imbalance, predicting high-value        policy conversions to optimize sales strategies.
+- **Sales Prediction Models** – Built XGBoost models to forecast revenue and deal stages for a retail dataset.
+- **Student Academic** Performance Modeling – Developed a tuned Decision Tree regression model with 10-fold cross-validation to forecast student scores and map    key drivers of academic success. 
 - **Dashboard Applications** – Interactive dashboards in R Shiny & Flexdashboard for sales and student assessment data.  
 - **Data Analysis & Visualization** – Tableau dashboards, trend analysis, and predictive insights for various datasets.
 
